@@ -4,7 +4,7 @@
 # 🚀 Welcome to Unistory's GitHub!
 
 We bridge ideas to reality through design, development, and cutting-edge Blockchain & AI technologies.  
-Visit our [Website](https://unistory.app/en/) for more information.
+Visit our [Website](https://unistory.app) for more information.
 
 ## 🤝 Community & Telegram Channels
 
