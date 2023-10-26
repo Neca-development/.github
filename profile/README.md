@@ -1,7 +1,8 @@
-![Unistory header Image](https://github.com/Neca-development/.github/blob/main/Header_Image.png)  
-
+![Unistory header Image](https://github.com/Neca-development/.github/blob/main/Header_Image.png)
 
 # 🚀 Welcome to Unistory's GitHub!
+
+We are Unistory, a tech-driven firm established in (year of establishment). With a dedicated team of (number of developers) developers, we bridge ideas to reality through design, development, and cutting-edge Blockchain & AI technologies. Visit our [Website](https://unistory.app/) for more information.
 
 ## 🛠️ Our Process
 
@@ -9,13 +10,20 @@ From design audit and product research to engineering, prototyping, and developm
 
 ## 💻 Technology Stack
 
-We excel in using cutting-edge technologies like React Native for app development, and Blockchain & AI for creating secure and intelligent solutions.
+- Web Applications: React, Angular
+- Backend: C#
+- Mobile Applications: React Native
+- Blockchain Solutions & Smart Contracts: Solidity
 
 ## 🎯 Areas of Expertise
 
 - Product Development: Transforming ideas into viable products.
 - Blockchain: Creating secure and transparent systems.
 - AI: Leveraging artificial intelligence to drive smart solutions.
+
+## 📚 Projects
+
+Explore our diverse portfolio showcasing our expertise across various domains on our [portfolio page](https://unistory.app/cases).
 
 ## 🤝 Community & Telegram Channels
 
@@ -32,11 +40,3 @@ Feel free to open issues, propose pull requests, or share your ideas to enhance 
 
 - 📧 contact@unistory.app
 - 📞 [WhatsApp](https://wa.me/79117417477)
-
-## 🖼️ Portfolio
-
-Check out some of our key projects and client testimonials on our [portfolio page](https://unistory.app/en/#portfolio).
-
-## 🗨️ Client Testimonials
-
-Hear from our satisfied clients on how we added value to their projects on our [testimonials page](https://unistory.app/en/#testimonials).
