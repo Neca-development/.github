@@ -28,12 +28,6 @@ From design audit and product research to engineering, prototyping, and developm
 
 Explore our diverse portfolio showcasing our expertise across various domains on our [portfolio page](https://unistory.app/#portfolio).
 
-## 🤝 Community & Telegram Channels
-
-Feel free to open issues, propose pull requests, or share your ideas to enhance our projects. We appreciate your input! Join our discussion on Telegram:
-- 🦄 [Unicorn Story](https://t.me/unistory_app)
-- 🎉 [Unistory Lifestyle](https://t.me/unistory_lifestyle)
-
 ## 🌐 Find Us On
 
 - 🆙 [UpWork](https://www.upwork.com/agencies/unistory/)
