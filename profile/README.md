@@ -2,7 +2,10 @@
 
 # 🚀 Welcome to Unistory's GitHub!
 
-We are Unistory, a tech-driven firm with a history spanning over 4+ years and a dedicated team of 25+ developers. We bridge ideas to reality through design, development, and cutting-edge Blockchain & AI technologies. Visit our [Website](https://unistory.app/) for more information.
+✨ Founded over **4+** years ago.  
+👥 A team of **25+** dedicated developers.
+
+We bridge ideas to reality through design, development, and cutting-edge Blockchain & AI technologies. Visit our [Website](https://unistory.app/) for more information.
 
 ## 🛠️ Our Process
 
