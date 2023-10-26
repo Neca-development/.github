@@ -10,10 +10,10 @@ From design audit and product research to engineering, prototyping, and developm
 
 ## 💻 Technology Stack
 
-- Web Applications: React, Angular
-- Backend: C#
-- Mobile Applications: React Native
-- Blockchain Solutions & Smart Contracts: Solidity
+- 🌐 Web Applications: React, Angular
+- ⚙️ Backend: C#
+- 📱 Mobile Applications: React Native
+- 🔐 Blockchain Solutions & Smart Contracts: Solidity
 
 ## 🎯 Areas of Expertise
 
@@ -23,7 +23,7 @@ From design audit and product research to engineering, prototyping, and developm
 
 ## 📚 Projects
 
-Explore our diverse portfolio showcasing our expertise across various domains on our [portfolio page](https://unistory.app/cases).
+Explore our diverse portfolio showcasing our expertise across various domains on our [portfolio page](https://unistory.app/#portfolio).
 
 ## 🤝 Community & Telegram Channels
 
