@@ -35,5 +35,5 @@ Explore our diverse portfolio showcasing our expertise across various domains on
 
 ## 📬 Contact Us
 
-- 📧 contact@unistory.app
-- 📞 [WhatsApp](https://wa.me/79117417477)
+- 📧 business@unistory.org
+- 📞 [WhatsApp](https://wa.me/79874490825)
