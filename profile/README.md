@@ -16,7 +16,7 @@ From design audit and product research to engineering, prototyping, and developm
 - 🌐 Web Applications: React, Angular
 - ⚙️ Backend: C#
 - 📱 Mobile Applications: React Native
-- 🔐 Blockchain Solutions & Smart Contracts: Solidity
+- 🔐 Blockchain Solutions & Smart Contracts: Solidity, Rust(Solana)
 
 ## 🎯 Areas of Expertise
 
